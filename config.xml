@@ -16,7 +16,7 @@
         SyKgis
     </author>
     
-    <gap:platform name="ios"/>
+    <gap:platform name="android"/>
 
     <!--
         Enable individual API permissions here.
