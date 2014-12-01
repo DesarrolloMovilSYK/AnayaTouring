@@ -3,10 +3,10 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "es.touring.valenciaoculta35git"
+        id        = "es.touring.valenciaoculta35bgit"
         version   = "1.0.0">
 
-    <name>Valencia_35</name>
+    <name>Valencia_35_b</name>
 
     <description>
     	App para ayuda al soporte papel de Valencia
